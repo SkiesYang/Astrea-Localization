@@ -1,0 +1,149 @@
+(2026/06/23)
+
+English Name                    Original Chinese      Revised Chinese
+-----------------------------------------------------------------------------------------------
+Minor Stasis                    低级**停口**                   低级**停滞**
+Restoration Burst               **完全恢复**                   **恢复爆发**
+Spiritual Burst                 **振奋精神**                   **灵魂爆发**
+Duality Degree                  **二元法令**                   **双重学位**
+Gilded Horn                     镀金**号角**                   镀金**兽角**
+Magistral Replication           **独断**复制                   **大师**复制
+Fulminant Quills                **闪亮**翎羽                   **迅猛**翎羽
+Gloomy Monocle                  **忧郁**单片镜                 **阴暗**单片镜
+Owl-Light Charge                枭光**感召**                   枭光**冲锋**
+Scholar Charge                  学者**感召**                   学者**冲锋**
+Discharge                       **普照**                       **释放**
+Apian Drone                     蜂星**嗡鸣**                   蜂星**无人机**
+Aeon Tentacle                   **伊涌**触须                   **万古**触须
+Entropy Hood                    熵**罩**                       熵**兜**
+Purging Anchor                  **清除**之锚                   **涤荡**之锚
+Purging Burst                   **清除**爆发                   **涤荡**爆发
+Warning Flare                   警告**耀斑**                   警告**火光**
+Stained Recharging              **不义**充能                   **腐化**充能
+Rising Gust                     狂风**呼啸**                   狂风**骤起**
+Cursed Discovery                **诅咒**发现                   **受诅**发现
+Fierce Squall                   **暴风突起**                   **狂飑**
+Living Zephyr                   **活化**和风                   **生机**和风
+Orbital Renovation              轨道**革新**                   轨道**翻新**
+Reversal Renovation             反转**革新**                   反转**易位**
+Orbital Restoration             轨道**恢复**                   轨道**复位**     ← revised again (2026/06/24)
+Comet Convergence               彗星**会聚**                   彗星**汇聚**
+Comet Shower Convergence        彗星雨**会聚**                 彗星雨**汇聚**
+Prediction Convergence          预测**会聚**                   预测**汇聚**
+Catalyst Convergence            触媒**会聚**                   触媒**汇聚**
+Ethereal Convergence            虚灵**会聚**                   虚灵**汇聚**
+Merciful Convergence            仁慈**会聚**                   仁慈**汇聚**
+Refreshing Mantra               **醒脑**真言                   **焕新**真言
+Refreshing Exchange             **醒脑**交换                   **焕新**交换
+Glimmering Breeze               **荧光**微风                   **闪烁**微风
+Clarity Whirlwind               **清晰**旋风                   **清澈**旋风
+Hazardous Expedition             危险**探索**                   危险**探险**
+Superposition Blip              **倒错标记**                   **叠加变数**
+Balance of Reckoning             清算**平衡**                   清算**天秤**
+Lightning Rod                   **闪电长杆**                   **避雷针**
+Indomitable Fan                  不屈**扇子**                   不屈**之扇**
+Miasma Cloak                     瘴气**之罩**                   瘴气**斗篷**
+Trickster Cross-Staff           **戏目**十字杖                 **欺诈**十字杖
+Denticle Suit                   **齿状**套装                   **盾鳞**套装
+Shining Apparatus                闪光**器械**                   闪光**装置**
+Bond Duplicator                 **纽带复制**                   **链接复制器**
+Glowing Reactor                  发光**反应器**                 发光**反应堆**
+
+Description
+----------------------------------------------------------------------------------------------------------------
+Sollar Lullaby
+English: Minimum Soul Heat: 5: Trigger Relief on all creatures, then decreases Relief by 1. Minimum Soul Heat: 0: Apply 1 Relief to any target.
+Original: 最低魂温：5：对所有生物触发舒缓，**然后将其舒缓值减然后将舒缓减1。。**最低魂温：0：对任意目标施加1点舒缓。
+Revised: 最低魂温：5：对所有生物触发舒缓，**然后将其舒缓减1。**最低魂温：0：对任意目标施加1点舒缓。
+
+Aegis Worship     ← revised again (2026/06/24)
+English: Deal 6 Purification to all targets for each Light Shield they have. Deal 6 Purification to a random enemy for each Light Shield that sentinels have.
+Original: 目标每有1点光盾，**对所有目标造成6点净化**。**该守卫每有1点光盾**对单个随机敌人造成6点净化。
+Revised: 目标每有1点光盾，**便受到6点净化**。**守卫每有1点光盾，**对单个随机敌人造成6点净化。
+
+Royal Scarab
+English: At the end of your turn, all enemies receive 2 Purification for each Affliction that sentinels have.
+Original: **该守卫每有一点疾病**所有敌人受到2点净化。
+Revised: **守卫每有一点疾病，**所有敌人受到2点净化。
+
+Alchemist Combustion
+English: Deal 1 Purification to all targets. Deals 2 additional Purification for each Astrium you have, then decreases Astrium by 1.
+Original: **你每有1点星元，对所有目标造成2点净化**，然后将星元减1。
+Revised: **对所有目标造成1点净化。你每有1点星元，额外造成2点净化**，然后将星元减1。
+
+Alchemist Missile
+English: Deal 2 Purification to any target. Deals 1 additional Purification for each Astrium you have, then decreases Astrium by 1.
+Original: **你每有1点星元，对任意目标造成1点净化**，然后将星元减1。
+Revised: **对任意目标造成2点净化。你每有1点星元，额外造成1点净化**，然后将星元减1。
+
+Introduction Cutscene
+-----------------------------------------------------------------------------------------------------------------------
+English: Thus began the Starlit Age, an era bathed in light and blessed with Astrea's celestial gifts.
+Original: 星光时代就此开启，阿斯特赖亚**赐予先知的天赋**保佑着这个璀璨的时代。
+Revised: 星光时代就此开启，阿斯特赖亚**赐予的圣物**保佑着这个璀璨的时代。
+
+English: Astrea's Heart fell into Aquarius and a fiery cataclysm was unleashed, engulfing the entire star system and corrupting the souls of the weak-willed.
+Original: 阿斯特赖亚之心坠入宝瓶星，一场**狱火灾难**就此爆发，吞噬了整个星系，腐化了意志薄弱者的灵魂。
+Revised: 阿斯特赖亚之心坠入宝瓶星，一场**烈火浩劫**就此爆发，吞噬了整个星系，腐化了意志薄弱者的灵魂。
+
+English: That day became known as the Crimson Dawn.     ← revised again (2026/06/24)
+Original: 那一天被称为**腥红**黎明。
+Revised: 那一天被称为**深红**黎明。
+
+English: After a long silence, echoes of the ancient cataclysm are once again surfacing and threatening to swallow the persisting worlds.
+Original: 在漫长的沉寂之后，远古灾难又有重现的迹象，威胁着要吞噬这些**仍在抵抗的**世界。
+Revised: 在漫长的沉寂之后，远古灾难又有重现的迹象，威胁着要吞噬这些**尚存的**世界。
+
+Austra
+-----------------------------------------------------------------------------------------------------------------------
+English: Self-proclaimed the best explorer of the star system, Austra uses her flying expertise to travel to remote locations while searching for lost relics.
+Original: 奥斯特拉自称星系第一探险家，**运用自己专业的飞行技能**前往各个遥远地点，搜寻失落的圣物。
+Revised: 奥斯特拉自称星系第一探险家，**她运用自己的飞行专长**前往各个遥远地点，搜寻失落的圣物。
+
+English: Sagacious and intimately connected with the skies, she personifies chaos and unpredictability, making her an expert in controlling randomness and dealing with surprises.
+Original: 她**与天空之间存在亲密的感应，聪明睿智而又混乱莫测**，因而是控制随机性和应对意外性的专家。
+Revised: 她**精明练达，与天空紧密相连，同时也是混乱与不可预测的化身**，因而成为控制随机和应对意外的专家。
+
+(2026/06/24)
+
+English Name                    Original Chinese      Revised Chinese
+-----------------------------------------------------------------------------------------------
+Scarlet Sigil                   **腥红**印记                   **猩红**印记
+Crimson Matter                  **腥红**物质                   **深红**物质
+Crimson Vault                   **腥红**宝箱                   **深红**宝箱
+
+Description 
+----------------------------------------------------------------------------------------------------------------
+Cleansing Conflagration
+English: Apply 1 Affliction to a random enemy. Deal 6 Purification to all targets for each Affliction they have. Increases your Soul Heat by 1 for each creature with Affliction.
+Original: 对单个随机敌人施加1点疾病。目标每有1点疾病，**对所有目标造成6点净化。**每有一个生物带有疾病，**将你的**魂温加1。
+Revised: 对单个随机敌人施加1点疾病。目标每有1点疾病，**便受到6点净化。**每有一个生物带有疾病，**你的**魂温加1。
+
+(2026/06/25)
+
+English Name                    Original Chinese      Revised Chinese
+-----------------------------------------------------------------------------------------------
+Sentinels Uprising              守卫**崛起**                   守卫**奋起**
+
+Description 
+----------------------------------------------------------------------------------------------------------------
+Shark Payback
+English: Deal 1 Purification to any target for each time you received Corruption during this battle. Not affected by Empower.
+Original: 每当你在这场战斗中受到**腐化时**，对任意目标造成1点净化。不受赋能影响。
+Revised: 每当你在这场战斗中受到**一次腐化**，对任意目标造成1点净化。不受赋能影响。
+
+Indomitable Fan
+English: At the start of each battle, gain 2 Critical Multiplier and gain Fierce Squall. Whenever an enemy gets Overcorrupted, gain 1 Critical Multiplier.
+Original: 在每场战斗开始时，获得2点暴击倍数，并获得**暴风突起点**。每当一个敌人进入过度腐化状态，获得1点暴击倍数。
+Revised: 在每场战斗开始时，获得2点暴击倍数，并获得**狂飑**。每当一个敌人进入过度腐化状态，获得1点暴击倍数。
+
+Starfall Banner
+English: Every 5 turns, apply Incorruptible to all targets. This counter is kept between battles.
+Original: 每5回合，对所有目标施加**圣洁点**。此计数器跨越多场战斗。
+Revised: 每5回合，对所有目标施加**圣洁**。此计数器跨越多场战斗。
+
+(2026/06/26)
+
+English Name                    Original Chinese      Revised Chinese
+-----------------------------------------------------------------------------------------------
+Regal Khepresh                  **污染**蓝冠                   **王室**蓝冠
